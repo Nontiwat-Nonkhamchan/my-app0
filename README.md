@@ -94,7 +94,7 @@ npm run dev
 
 ## 👤 ผู้พัฒนา
 
-- **Nattaphoom Saensiriphokh** – [GitHub](https://github.com/Nattaphoom-Saensiriphokh)
+- **Nontiwat Nonkhamchan** – [GitHub](https://github.com/Nattaphoom-Saensiriphokh)
 
 ## 📚 อ้างอิง
 
